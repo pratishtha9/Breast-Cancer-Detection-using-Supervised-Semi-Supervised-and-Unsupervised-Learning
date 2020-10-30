@@ -1,0 +1,7 @@
+pandas
+numpy
+wget
+sklearn
+warnings
+matplotlib
+random
