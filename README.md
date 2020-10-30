@@ -1,2 +1,2 @@
-# Supervised-Semi-Supervised-and-Unsupervised-Learning
-Performed Monte-Carlo Simulation for supervised, un-supervised, and semi-supervised learning M = 30 times on the Breast Cancer Wisconsin (Diagnostic) Data Set
+# Breast Cancer Detection
+Analysed the performance of Supervised, Semi-Supervised, Unsupervised Learning and Spectral Clustering over 30 Monte Carlo Simulations on the breast cancer dataset.
